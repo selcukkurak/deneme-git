@@ -1,0 +1,23 @@
+{
+  "name": "git-frontend",
+  "version": "1.0.0",
+  "description": "deneme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selcukkurak/deneme-git.git"
+  },
+  "keywords": [
+    "git",
+    "deneme"
+  ],
+  "author": "Selçuk Kurak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/selcukkurak/deneme-git/issues"
+  },
+  "homepage": "https://github.com/selcukkurak/deneme-git#readme"
+}
